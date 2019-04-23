@@ -7,3 +7,5 @@ Git has a mutable indedx called stage.
 Git tracks changes.
 
 Git --no-ff git merge
+
+GIT bug branch.
